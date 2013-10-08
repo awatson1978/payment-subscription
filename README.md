@@ -28,8 +28,7 @@ F.  Publish
 ------------------------
 ### Licensing
 
-MIT License on the Meteor package stuff. Otherwise, whatever the code at Quirksmode is licensed under.  (I'm assuming MIT/GPL)
-http://www.quirksmode.org/js/detect.html.
+MIT License. Use as you wish, including for commercial purposes.
 
 ------------------------
 ### Support
