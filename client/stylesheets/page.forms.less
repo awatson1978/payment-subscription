@@ -1,0 +1,209 @@
+@import "bootstrap3/mixins";
+@import "bootstrap3/variables";
+@import "bootstrap3/grid";
+@import "bootstrap3/buttons";
+
+
+
+
+.list-header{
+  .btn-pseudo-states(@btn-default-color, @btn-default-bg, @btn-default-border);
+}
+
+// Form - Text Inputs
+//.dataset-menu{
+//  height: 100px;
+//  width: 100px;
+//  border: 2px solid darkgray;
+//  cursor: pointer;
+//}
+//
+//.dataset-menu:hover{
+//  border: 2px solid orangered;
+//}
+//
+//.menu-item{
+//  padding-bottom: 20px;
+//  height: 140px;
+//}
+//.menu-label{
+//  padding-left: 20px;
+//  font-weight: 24px;
+//}
+//.menu-synopsis{
+//  position: relative;
+//  top: -100px;
+//  left: 120px;
+//}
+
+
+
+// Form - Radios and Checkboxes
+
+.radio label, .checkboxes label{
+  .btn;
+  .btn-default;
+}
+input[type="radio"], input[type="checkbox"]{
+  filter:alpha(opacity=0);
+  -moz-opacity:0;
+  -khtml-opacity: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+
+.meteor-form
+{
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="url"]
+  {
+    cursor: pointer;
+    padding-left: 120px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+  }
+  textarea{
+    padding-left: 120px;
+  }
+}
+
+.meteor-form label.smallgray{
+  position: relative;
+  top: -45px;
+  color: lightgray;
+  padding-left: 5px;
+  font-weight: normal;
+  text-size: 80%;
+}
+.meteor-form label.textarea{
+  position: relative;
+  top: 25px;
+  color: lightgray;
+  padding-left: 5px;
+  font-weight: normal;
+  text-size: 80%;
+}
+
+
+.meteor-form .question{
+  position: relative;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  text-rendering: optimizelegibility;
+  padding-left: 120px;
+  top: -30px;
+}
+.meteor-form .never-past-current-question{
+  position: relative;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  text-rendering: optimizelegibility;
+  padding-left: 240px;
+  top: -30px;
+}
+
+
+.meteor-form .btn{
+  overflow: hidden;
+}
+
+.meteor-form .yesno-buttons,
+.meteor-form .multi-buttons,
+.meteor-form .multi-choice,
+{
+  position: relative;
+  z-index: 100 !important;
+}
+.meteor-form .multi-choice{
+  div{
+    margin-bottom: 10px;
+  }
+}
+.meteor-form .pregnancy-record{
+  height: 40px;
+  input{
+    padding-left: 10px;
+  }
+  padding-bottom: 10px;
+}
+.meteor-form .row{
+  margin: 0px;
+}
+
+input[type=checkbox] {
+  width: 44px; height: 44px;
+  -webkit-border-radius: 22px; -moz-border-radius: 22px; border-radius: 22px;
+  border: 1px solid #bbb;
+}
+
+input[type=range] {
+  width: 100%;
+}
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 44px; height: 44px;
+  background: #fdfdfd; background: -moz-linear-gradient(top, #fdfdfd 0%, #bebebe 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#bebebe)); background: -webkit-linear-gradient(top, #fdfdfd 0%,#bebebe 100%); background: -o-linear-gradient(top, #fdfdfd 0%,#bebebe 100%); background: -ms-linear-gradient(top, #fdfdfd 0%,#bebebe 100%); background: linear-gradient(to bottom, #fdfdfd 0%,#bebebe 100%);
+  border: 1px solid #bbb;
+  -webkit-border-radius: 22px; -moz-border-radius: 22px; border-radius: 22px;
+}
+
+
+
+
+
+
+// Alternate buttons
+// --------------------------------------------------
+
+.chk-default {
+  .btn-pseudo-states(@btn-default-color, @btn-default-bg, @btn-default-border);
+}
+.chk-primary {
+  .btn-pseudo-states(@btn-primary-color, @btn-primary-bg, @btn-primary-border);
+}
+// Warning appears as orange
+.chk-warning {
+  .btn-pseudo-states(@btn-warning-color, @btn-warning-bg, @btn-warning-border);
+}
+// Danger and error appear as red
+.chk-danger {
+  .btn-pseudo-states(@btn-danger-color, @btn-danger-bg, @btn-danger-border);
+}
+// Success appears as green
+.chk-success {
+  .btn-pseudo-states(@btn-success-color, @btn-success-bg, @btn-success-border);
+}
+// Info appears as blue-green
+.chk-info {
+  .btn-pseudo-states(@btn-info-color, @btn-info-bg, @btn-info-border);
+}
+
+
+
+// mobile phone layout
+@media only screen and (max-width: 480px) {
+
+}
+
+// portrait orientation
+@media only screen and (max-width: 768px) {
+  #formPanel .padded{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+// landscape orientation
+@media only screen and (min-width: 768px) {
+
+}
+
+
