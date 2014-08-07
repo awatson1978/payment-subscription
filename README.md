@@ -3,8 +3,9 @@ payment-subscription
 
 Meteor package to drop in a subscription payment page using the Stripe API.  
 
-------------------------
-### Installation
+
+==========================
+#### Installation
 
 A.  Clone the repo to your local computer.
 
@@ -28,8 +29,9 @@ D.  Edit copy and parameters to suite your business needs.
 E.  Maybe update the email template.
 F.  Publish
 
-------------------------
-### Licensing
+
+==========================
+#### Licensing
 
 MIT License. Use as you wish, including for commercial purposes.
 
