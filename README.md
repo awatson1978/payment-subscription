@@ -2,7 +2,7 @@ payment-subscription
 ==========================
 
 Meteor package to drop in a subscription payment page using the Stripe API.  
-
+![travis-build](https://travis-ci.org/awatson1978/payment-subscription.svg?branch=master)  
 
 ==========================
 #### Installation
@@ -34,4 +34,3 @@ F.  Publish
 #### Licensing
 
 MIT License. Use as you wish, including for commercial purposes.
-
