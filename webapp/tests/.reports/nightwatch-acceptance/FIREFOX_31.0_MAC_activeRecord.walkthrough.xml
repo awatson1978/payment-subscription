@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="activeRecord.walkthrough"
+             errors="0"
+             failures="0"
+             tests="185">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="ActiveRecord Walkthrough" package="activeRecord.walkthrough" skipped="0"
+    tests="185" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 297 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarHeader&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mainPanel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#appTitle&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListLink&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#newCustomerLink&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#appTitle&gt; contains text: &quot;Clinical:ActiveRecord&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+        
+      </testcase>
+    
+      <testcase name="//A.  CUSTOMER LIST PAGE (NEW)">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListPage&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersSearchInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListPaginationButtons&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListLimitButtons&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(1)&gt; contains text: &quot;First Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(2)&gt; contains text: &quot;Last Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(3)&gt; contains text: &quot;Company&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(4)&gt; contains text: &quot;Zip&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(5)&gt; contains text: &quot;Email&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr td:nth-child(1)&gt; contains text: &quot;Deshawn&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr td:nth-child(2)&gt; contains text: &quot;Inafuku&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr td:nth-child(3)&gt; contains text: &quot;Telair Div Of Teleflex Inc&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr td:nth-child(4)&gt; contains text: &quot;78408&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr td:nth-child(5)&gt; contains text: &quot;deshawn@inafuku.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#customerUpsertCard&gt; was visible after 22 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+        
+      </testcase>
+    
+      <testcase name="//B.  CUSTOMER UPSERT PAGE (NEW)">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#faxLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesLabel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameLabel&gt; contains text: &quot;First Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameLabel&gt; contains text: &quot;Last Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyLabel&gt; contains text: &quot;Company&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressLabel&gt; contains text: &quot;Address&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityLabel&gt; contains text: &quot;City&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneLabel&gt; contains text: &quot;Phone&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webLabel&gt; contains text: &quot;Web&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateLabel&gt; contains text: &quot;State&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipLabel&gt; contains text: &quot;Zip&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#faxLabel&gt; contains text: &quot;Fax&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailLabel&gt; contains text: &quot;Email&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesLabel&gt; contains text: &quot;Notes&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#faxInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#faxInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesInput&gt; contains text: &quot;&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#upsertCustomerButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#upsertCustomerButton&gt; contains text: &quot;Save Customer&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#customerPreviewPage&gt; was visible after 17 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+        
+      </testcase>
+    
+      <testcase name="//C.  CUSTOMER PREVIEW PAGE">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameText&gt; contains text: &quot;Jane&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameText&gt; contains text: &quot;Doe&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyText&gt; contains text: &quot;ACME, Inc.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressText&gt; contains text: &quot;123 Main St.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityText&gt; contains text: &quot;Anywhere&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneText&gt; contains text: &quot;888-555-1234&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webText&gt; contains text: &quot;http://www.acme.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateText&gt; contains text: &quot;NJ&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipText&gt; contains text: &quot;07307&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailText&gt; contains text: &quot;janedoe@acme.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesText&gt; contains text: &quot;Lorem textum...&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerEditButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerEditButton&gt; contains text: &quot;Edit Customer&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerDeleteButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerDeleteButton&gt; contains text: &quot;Delete Customer&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#customerUpsertPage&gt; was visible after 15 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerUpsertPage&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+        
+      </testcase>
+    
+      <testcase name="//D.  CUSTOMER UPSERT PAGE (EDIT)">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameLabel&gt; contains text: &quot;First Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameLabel&gt; contains text: &quot;Last Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyLabel&gt; contains text: &quot;Company&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressLabel&gt; contains text: &quot;Address&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityLabel&gt; contains text: &quot;City&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneLabel&gt; contains text: &quot;Phone&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webLabel&gt; contains text: &quot;Web&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateLabel&gt; contains text: &quot;State&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipLabel&gt; contains text: &quot;Zip&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#faxLabel&gt; contains text: &quot;Fax&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailLabel&gt; contains text: &quot;Email&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesLabel&gt; contains text: &quot;Notes&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#faxInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#firstNameInput&gt; equals &quot;Jane&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#lastNameInput&gt; equals &quot;Doe&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#companyInput&gt; equals &quot;ACME, Inc.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#addressInput&gt; equals &quot;123 Main St.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#cityInput&gt; equals &quot;Anywhere&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#phoneInput&gt; equals &quot;888-555-1234&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#webInput&gt; equals &quot;http://www.acme.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#stateInput&gt; equals &quot;NJ&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#zipInput&gt; equals &quot;07307&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#faxInput&gt; equals &quot;818-555-1233&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#emailInput&gt; equals &quot;janedoe@acme.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if attribute value of &lt;#notesInput&gt; equals &quot;Lorem textum...&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#upsertCustomerButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#customerPreviewPage&gt; was visible after 16 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+        
+      </testcase>
+    
+      <testcase name="//E.  CUSTOMER PREVIEW PAGE">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesText&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameText&gt; contains text: &quot;Janice&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameText&gt; contains text: &quot;Doe&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyText&gt; contains text: &quot;Sprocket, Co.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#addressText&gt; contains text: &quot;321 First St.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#cityText&gt; contains text: &quot;Anyville&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#phoneText&gt; contains text: &quot;888-444-1234&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#webText&gt; contains text: &quot;http://www.acme.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#stateText&gt; contains text: &quot;NJ&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipText&gt; contains text: &quot;07307&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailText&gt; contains text: &quot;janice@acme.com&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#notesText&gt; contains text: &quot;Textica foretica flom...&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerEditButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customerDeleteButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+        
+      </testcase>
+    
+      <testcase name="//F.  CUSTOMERS LIST PAGE">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersSearchInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(1)&gt; contains text: &quot;Janice&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(2)&gt; contains text: &quot;Doe&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(3)&gt; contains text: &quot;Sprocket, Co.&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(4)&gt; contains text: &quot;07307&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(5)&gt; contains text: &quot;janice@acme.com&quot;.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

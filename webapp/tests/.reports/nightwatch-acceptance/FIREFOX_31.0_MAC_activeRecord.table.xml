@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="activeRecord.table"
+             errors="0"
+             failures="0"
+             tests="111">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="ActiveRecord::Table Walkthrough" package="activeRecord.table" skipped="0"
+    tests="111" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 310 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="10000">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersSearchInput&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(1)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(1)&gt; contains text: &quot;First Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(2)&gt; contains text: &quot;Last Name&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(3)&gt; contains text: &quot;Company&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(4)&gt; contains text: &quot;Zip&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable thead tr th:nth-child(5)&gt; contains text: &quot;Email&quot;.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(20)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Essie">
+        
+        
+      </testcase>
+    
+      <testcase name="Vaill">
+        
+        
+      </testcase>
+    
+      <testcase name="Litronic Industries">
+        
+        
+      </testcase>
+    
+      <testcase name="99515">
+        
+        
+      </testcase>
+    
+      <testcase name="essie@vaill.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Cruz">
+        
+        
+      </testcase>
+    
+      <testcase name="Roudabush">
+        
+        
+      </testcase>
+    
+      <testcase name="Meridian Products">
+        
+        
+      </testcase>
+    
+      <testcase name="85004">
+        
+        
+      </testcase>
+    
+      <testcase name="cruz@roudabush.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Cary">
+        
+        
+      </testcase>
+    
+      <testcase name="Mccarney">
+        
+        
+      </testcase>
+    
+      <testcase name="William Scotsman">
+        
+        
+      </testcase>
+    
+      <testcase name="43215">
+        
+        
+      </testcase>
+    
+      <testcase name="cary@mccarney.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(21)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#twentyButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#fiftyButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#hundredButton&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListPaginationButtons&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-0&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-1&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-2&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-3&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-4&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(21)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(50)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(51)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Haley">
+        
+        
+      </testcase>
+    
+      <testcase name="Rocheford">
+        
+        
+      </testcase>
+    
+      <testcase name="Davis, Robert L Esq">
+        
+        
+      </testcase>
+    
+      <testcase name="80111">
+        
+        
+      </testcase>
+    
+      <testcase name="haley@rocheford.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Dorothy">
+        
+        
+      </testcase>
+    
+      <testcase name="Alexy">
+        
+        
+      </testcase>
+    
+      <testcase name="Fank Siviglia &amp; Co">
+        
+        
+      </testcase>
+    
+      <testcase name="96701">
+        
+        
+      </testcase>
+    
+      <testcase name="dorthy@alexy.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-0&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-1&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-2&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(51)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(100)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(101)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Rosalia">
+        
+        
+      </testcase>
+    
+      <testcase name="Kennemur">
+        
+        
+      </testcase>
+    
+      <testcase name="Reagan, Thomas J Esq">
+        
+        
+      </testcase>
+    
+      <testcase name="71463">
+        
+        
+      </testcase>
+    
+      <testcase name="rosalia@kennemur.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-0&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-1&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(20)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(21)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListPaginationButtons&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-0&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-1&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-2&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-3&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#pagination-btn-4&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Haley">
+        
+        
+      </testcase>
+    
+      <testcase name="Rocheford">
+        
+        
+      </testcase>
+    
+      <testcase name="Davis, Robert L Esq">
+        
+        
+      </testcase>
+    
+      <testcase name="80111">
+        
+        
+      </testcase>
+    
+      <testcase name="haley@rocheford.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(20)&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tbody tr:nth-child(21)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Essie">
+        
+        
+      </testcase>
+    
+      <testcase name="Vaill">
+        
+        
+      </testcase>
+    
+      <testcase name="Litronic Industries">
+        
+        
+      </testcase>
+    
+      <testcase name="99515">
+        
+        
+      </testcase>
+    
+      <testcase name="essie@vaill.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Lashawn">
+        
+        
+      </testcase>
+    
+      <testcase name="Hasty">
+        
+        
+      </testcase>
+    
+      <testcase name="Kpff Consulting Engineers">
+        
+        
+      </testcase>
+    
+      <testcase name="91790">
+        
+        
+      </testcase>
+    
+      <testcase name="lashawn@hasty.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Essie">
+        
+        
+      </testcase>
+    
+      <testcase name="Vaill">
+        
+        
+      </testcase>
+    
+      <testcase name="Litronic Industries">
+        
+        
+      </testcase>
+    
+      <testcase name="99515">
+        
+        
+      </testcase>
+    
+      <testcase name="essie@vaill.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;##customersTable tbody tr:nth-child(9)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Vanessa">
+        
+        
+      </testcase>
+    
+      <testcase name="Lewallen">
+        
+        
+      </testcase>
+    
+      <testcase name="Fargo Glass &amp; Paint Co">
+        
+        
+      </testcase>
+    
+      <testcase name="43011">
+        
+        
+      </testcase>
+    
+      <testcase name="vanessa@lewallen.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Valerie">
+        
+        
+      </testcase>
+    
+      <testcase name="Pou">
+        
+        
+      </testcase>
+    
+      <testcase name="Sea Port Record One Stop Inc">
+        
+        
+      </testcase>
+    
+      <testcase name="18087">
+        
+        
+      </testcase>
+    
+      <testcase name="valerie@pou.com">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;##customersTable tbody tr:nth-child(2)&gt; is not present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Essie">
+        
+        
+      </testcase>
+    
+      <testcase name="Vaill">
+        
+        
+      </testcase>
+    
+      <testcase name="Litronic Industries">
+        
+        
+      </testcase>
+    
+      <testcase name="99515">
+        
+        
+      </testcase>
+    
+      <testcase name="essie@vaill.com">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

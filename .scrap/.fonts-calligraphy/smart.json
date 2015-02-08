@@ -1,8 +1,0 @@
-{
-    "name": "fonts-calligraphy",
-    "description": "Meteorite package for adding calligraphy fonts to Meteor apps (not cursive fonts).",
-    "homepage": "https://github.com/awatson1978/fonts-calligraphy",
-    "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.1.0",
-    "git": "https://github.com/awatson1978/fonts-calligraphy.git"
-}

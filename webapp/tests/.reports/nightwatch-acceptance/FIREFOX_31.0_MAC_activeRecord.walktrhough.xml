@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="activeRecord.walktrhough"
+             errors="6"
+             failures="24"
+             tests="245">
+  
+  <testsuite errors="6" failures="24" hostname="" id=""
+    name="ActiveRecord Walkthrough" package="activeRecord.walktrhough" skipped="214"
+    tests="245" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 62 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarHeader&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mainPanel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#appTitle&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListLink&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#newCustomerLink&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#appTitle&gt; contains text: &quot;Clinical UI - Crud Table&quot;.">
+        
+          <failure message="Expected &quot;Clinical UI - Crud Table&quot; but got: &quot;Clinical:ActiveRecord&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="//----------------------------------------------------------">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="//CUSTOMER LIST PAGE (NEW)">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTableHeader&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTableHeaderRow&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersSearchInput&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListPaginationButtons&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersListLimitButtons&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameColumn&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameColumn&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyColumn&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipColumn&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailColumn&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#firstNameColumn&gt; contains text: &quot;First Name&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;First Name&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#lastNameColumn&gt; contains text: &quot;Last Name&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;Last Name&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#companyColumn&gt; contains text: &quot;Company&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;Company&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#zipColumn&gt; contains text: &quot;Zip&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;Zip&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#emailColumn&gt; contains text: &quot;Email&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;Email&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(1)&gt; contains text: &quot;Deshawn&quot;.">
+        
+          <failure message="Expected &quot;Deshawn&quot; but got: &quot;Essie&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(2)&gt; contains text: &quot;Inafuku&quot;.">
+        
+          <failure message="Expected &quot;Inafuku&quot; but got: &quot;Vaill&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(3)&gt; contains text: &quot;Telair Div Of Teleflex Inc&quot;.">
+        
+          <failure message="Expected &quot;Telair Div Of Teleflex Inc&quot; but got: &quot;Litronic Industries&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(4)&gt; contains text: &quot;78408&quot;.">
+        
+          <failure message="Expected &quot;78408&quot; but got: &quot;99515&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#customersTable tr td:nth-child(5)&gt; contains text: &quot;deshawn@inafuku.com&quot;.">
+        
+          <failure message="Expected &quot;deshawn@inafuku.com&quot; but got: &quot;essie@vaill.com&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Timed out while waiting for element &lt;#customerUpsertCard&gt; to be present for 1000 milliseconds.">
+        
+          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#firstNameColumn&quot; using: css selector
+Unable to locate element: &quot;#lastNameColumn&quot; using: css selector
+Unable to locate element: &quot;#companyColumn&quot; using: css selector
+Unable to locate element: &quot;#zipColumn&quot; using: css selector
+Unable to locate element: &quot;#emailColumn&quot; using: css selector
+Unable to locate element: &quot;#customersSearchInput&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

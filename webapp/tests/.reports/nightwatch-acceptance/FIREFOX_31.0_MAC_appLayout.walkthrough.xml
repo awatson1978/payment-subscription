@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="appLayout.walkthrough"
+             errors="8"
+             failures="24"
+             tests="25">
+  
+  <testsuite errors="8" failures="24" hostname="" id=""
+    name="ActiveRecord::Table Walkthrough" package="appLayout.walkthrough" skipped="0"
+    tests="25" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 636 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarHeader&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarHeaderNav&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#westPanel&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#eastPanel&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mainPanel&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mainLayout&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarFooter&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarFooterNav&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarBrandLink&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#keybindingsLink&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#promptLink&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#confirmLink&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#errorToggleLink&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#eastPanelToggleLink&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list&gt; is present.">
+        
+          <failure message="Expected &quot;present&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(1)&gt; contains text: &quot;penecillin&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;penecillin&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(2)&gt; contains text: &quot;vitamin d&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;vitamin d&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(3)&gt; contains text: &quot;tetracycline&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;tetracycline&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(4)&gt; contains text: &quot;epinephrine&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;epinephrine&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(5)&gt; contains text: &quot;peptol bismol&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;peptol bismol&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(6)&gt; contains text: &quot;claritin&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;claritin&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(7)&gt; contains text: &quot;dihydrogen monoxide&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;dihydrogen monoxide&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#sortableListPanel #list .item:nth-child(8)&gt; contains text: &quot;asprin&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;asprin&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(1)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(2)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(3)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(4)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(5)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(6)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(7)&quot; using: css selector
+Unable to locate element: &quot;#sortableListPanel #list .item:nth-child(8)&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

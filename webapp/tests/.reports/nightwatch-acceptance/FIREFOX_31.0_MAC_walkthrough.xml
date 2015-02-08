@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="walkthrough"
+             errors="0"
+             failures="0"
+             tests="7">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Basic Walkthrough" package="walkthrough" skipped="0"
+    tests="7" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 584 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarHeader&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarHeaderNav&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mainPanel&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mainLayout&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarFooter&gt; is present.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#navbarFooterNav&gt; is present.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>
