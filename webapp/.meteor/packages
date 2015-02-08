@@ -6,11 +6,12 @@ copleykj:mesosphere
 awatson1978:fonts-handwritten
 awatson1978:fonts-calligraphy
 email
-nemo64:bootstrap
 
 #stripe-meteor
 mrgalaxy:stripe
 
+nemo64:bootstrap
 natestrauser:font-awesome
 
 clinical:ui-vocabulary
+clinical:nightwatch
